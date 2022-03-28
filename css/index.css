@@ -1,0 +1,38 @@
+body {
+    background-image: url("../images/salao.jpeg");
+    background-size: cover;
+    background-position: top;
+    background-size: cover;
+}
+
+.form{
+    height: 700px;
+    width: 500px;
+    background-color: 0D0126;
+    margin-top: 5%;
+    margin-left:60%;
+    border-radius: 10%;
+}
+
+.form-top{
+    height: 100px;
+    width: 500px;     
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background-color: #F20530;
+}
+
+.titulo-1{
+    font-family:'Lucida Sans';
+    font-size: 28px;
+    color:white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center
+
+}
+
+#header{
+    background-color: #F20530;
+}
